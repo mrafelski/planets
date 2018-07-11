@@ -2,4 +2,5 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem.
 Alpha modifies the file
 Beta modified the file.
-Another modification.
+Alpha made another modification.
+Beta made a second modification.
